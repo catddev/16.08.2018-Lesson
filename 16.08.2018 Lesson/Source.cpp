@@ -305,7 +305,7 @@ int main()
 		break;
 		case 42:
 		{
-
+			daymonth(16, 8, 2018);
 		}
 		break;
 		case 37:
